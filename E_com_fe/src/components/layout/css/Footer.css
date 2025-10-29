@@ -1,0 +1,20 @@
+.footer-link {
+  color: #bbb;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-link:hover {
+  color: #fff;
+}
+
+.footer-social {
+  color: #bbb;
+  font-size: 1.2rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.footer-social:hover {
+  color: #0d6efd; /* bootstrap primary blue */
+  transform: scale(1.2);
+}
